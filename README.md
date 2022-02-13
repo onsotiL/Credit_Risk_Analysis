@@ -10,7 +10,7 @@ The following procedures were used to build and evaluate the effectiveness of th
 
 ## Results
 ### RandomOverSampler model
-![image](https://user-images.githubusercontent.com/90416094/153759518-f0d3cc74-8948-425f-a5da-c12acb1eea66.png)
+![image](https://user-images.githubusercontent.com/90416094/153770634-3c58c758-dd8b-459c-807b-2c89a8d41096.png)
 
 - The balanced accuracy score is about 65%.
 - The high risk precision is about 1% only with  a recall of 69%  and F1 of only 2% .
