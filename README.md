@@ -13,16 +13,16 @@ The following procedures were used to build and evaluate the effectiveness of th
 ![image](https://user-images.githubusercontent.com/90416094/153759518-f0d3cc74-8948-425f-a5da-c12acb1eea66.png)
 
 - The balanced accuracy score is about 65%.
-- The high risk precision is about 1% only with 69% sensitivity and F1 of 2% only.
-- Its low risk precision is almost at 100% with a sensitivity of 59%.
+- The high risk precision is about 1% only with  a recall of 69%  and F1 of only 2% .
+- Its low risk precision is almost at 100% with a recall of 59%.
 
 ---
 ### SMOTE model
 ![image](https://user-images.githubusercontent.com/90416094/153759559-82197a1f-6b8e-47fa-bc38-a5af01cc430d.png)
 
 - The balanced accuracy score also about 65%.
-- The high_risk precision is about 1% only with 59% sensitivity and F1 of 2% only.
-- its low risk precision is almost 100% with a recall of 59%.
+- The high_risk precision is about 1% only with 69% recall and F1 of 2% only.
+- Its low risk precision is almost 100% with a recall of 59%.
 
 
 ---
@@ -41,7 +41,7 @@ The following procedures were used to build and evaluate the effectiveness of th
 ![image](https://user-images.githubusercontent.com/90416094/153759881-5a710e25-cc4b-49ee-a5ff-32ff24a71109.png)
 
 - The balanced accuracy score went up to about 79%.
-- The high_risk precision is still low at 4% only with 70% recall and F1 of only 6%.
+- The high_risk precision is still low at 3% only with 70% recall and F1 of only 6%.
 - The low_risk recall is now 87% with 100% presicion.
 
 ---
